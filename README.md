@@ -5,4 +5,5 @@ A modified recursive descent compiler for the language PL0, adding support for m
 
 First project for UQ's *COMP4403 - Compilers \& Interpreters* course (2014)
 
-Note: Only modified files are uploaded. Not uploading the full compiler until such time as I get permission from the course staff (2014-04-21)
+----
+Only modified files are uploaded - not uploading the full compiler unless I get permission from the course staff (2014-04-21)
